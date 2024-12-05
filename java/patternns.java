@@ -1,3 +1,4 @@
+package java;
 public class patternns {
     public static void main(String[] args) {
         int n = 4;

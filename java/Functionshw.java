@@ -1,3 +1,4 @@
+package java;
 import java.util.*;
 public class Functionshw {
     public static void caluculateSum(int n){

@@ -1,3 +1,4 @@
+package java;
 public class test {
 public static void main(String[] args) {
     double sum=0.0;

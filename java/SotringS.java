@@ -1,3 +1,4 @@
+package java;
 public class SotringS {
     
         public static void printArray(int arr[]){

@@ -1,3 +1,4 @@
+package java;
 public class SortingB {
     public static void printArray(int arr[]){
         for(int i=0;i<arr.length;i++){

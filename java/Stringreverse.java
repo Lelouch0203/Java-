@@ -1,3 +1,4 @@
+package java;
 import java.util.*;
 public class Stringreverse {
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package java;
 //CLASS
 class Student2{  
     String name;
