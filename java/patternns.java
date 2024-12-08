@@ -1,4 +1,4 @@
-package java;
+// package java;
 public class patternns {
     public static void main(String[] args) {
         int n = 4;
@@ -11,9 +11,9 @@ public class patternns {
                 System.out.print('*');    
             }
             System.out.println();
-            for(int j=2;j<i+1;j++){
-                System.out.print("*");
-            }
+            // for(int j=2;j<i+1;j++){
+            //     System.out.print("*");
+            // }
         }
 
 
