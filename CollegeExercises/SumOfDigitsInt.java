@@ -20,7 +20,8 @@ public class SumOfDigitsInt {
         }
         System.out.println("The Sum of the digits is:"+sum);
     
-    
+        
+  in.close();
     }
 
 }

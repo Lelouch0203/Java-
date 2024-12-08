@@ -32,6 +32,7 @@ public class SumProductMinMax {
         System.out.println("Product = " + product);
         System.out.println("MIN = "+min);
         System.out.println("MAX = " +max);
+        sc.close();
     }
     
 }

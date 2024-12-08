@@ -10,5 +10,6 @@ public class AddtwoIntegers{
         int num2 = sc.nextInt();
         int sum = num1+num2;
         System.out.println("The sum of the given numbers is : "+sum);
+        sc.close();
     }
 }

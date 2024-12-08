@@ -13,5 +13,6 @@ public class Squarepattern {
             System.out.println();
             
         }
+        sc.close();
     }
 }

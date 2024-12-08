@@ -20,6 +20,8 @@ public class Swap2integers {
         num1 = sc.nextInt();
         }
 System.out.println("Bye have a good day!");
+
+sc.close();
           
     }
     

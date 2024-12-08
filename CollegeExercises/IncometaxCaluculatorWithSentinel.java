@@ -30,5 +30,6 @@ public class IncometaxCaluculatorWithSentinel {
         taxableIncome= sc.nextInt();
         }
         System.out.println("Bye have a good day!");
+        sc.close();
     }
 }

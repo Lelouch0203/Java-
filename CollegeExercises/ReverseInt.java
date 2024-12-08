@@ -16,6 +16,7 @@ public class ReverseInt {
             
         }
         System.out.println("The reverse int is:"+revNum);
+        in.close();
     
     
     }

@@ -11,6 +11,7 @@ public class CircularComputation {
         Double Area = r*r*Math.PI;
         System.out.printf("Area is : %.2f%n",Area);
         System.out.printf("Circumference is : %.2f%n",Circumference);
+        sc.close();
     }
     
 }

@@ -19,5 +19,7 @@ public class SalesTaxCaluculator {
              taxInclusivePrice = sc.nextDouble();
         }
         System.out.println("Bye have a great day!");
-        }
+        sc.close();
+    }
+        
 }

@@ -22,5 +22,6 @@ public class InputValidation {
             }
             
         } while (!isValid);
+        sc.close();
     }
 }
