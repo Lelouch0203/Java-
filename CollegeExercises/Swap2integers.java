@@ -19,7 +19,7 @@ public class Swap2integers {
            System.out.println("Enter first number :");
         num1 = sc.nextInt();
         }
-System.out.println("bye have a good day!");
+System.out.println("Bye have a good day!");
           
     }
     

@@ -1,4 +1,4 @@
-package java;
+
 import java.util.*;
 public class TwoDarrays {
     public static void main(String[] args) {
