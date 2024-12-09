@@ -54,6 +54,7 @@ public class HillPattern {
             }
             System.out.println();
         }
+sc.close();
 }
 
 }
