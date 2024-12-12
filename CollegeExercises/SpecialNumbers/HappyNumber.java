@@ -20,12 +20,13 @@ public class HappyNumber {
             }
             num=sum;
             sum=0;
-            }
+        }
             if(num==1){
                 System.out.println(n+" is a capricorn number");
             }
             else{
                 System.out.println(n+" is not a capricorn number");
             }
-    }
+    sc.close();
+}
 }
