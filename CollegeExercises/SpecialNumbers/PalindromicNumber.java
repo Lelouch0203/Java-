@@ -21,6 +21,7 @@ public class PalindromicNumber {
        else{
         System.out.println("Not a Palindromic number");
        }
+       cs.close();
     }
     
 }
