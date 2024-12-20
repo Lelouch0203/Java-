@@ -26,6 +26,7 @@ public class Specialnumber {
     else{
         System.out.println("Not a special number");
     }
+    sc.close();
 
     }
     
